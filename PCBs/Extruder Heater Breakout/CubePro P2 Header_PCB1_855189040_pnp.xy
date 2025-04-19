@@ -1,0 +1,27 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=CubePro P2 Header_PCB1_855189040
+# Date=11:33:51
+# CreatedBy=Fritzing 1.0.0rc.2023-06-02.CD-4157-0-6b14cfe9
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+E1 THERM,";;;;;;;;","THT",276.552,1076.57,0,Top,THT
+E3 HEATER,";;;;;;;;","THT",276.552,1509.64,0,Top,THT
+E HEATER -1,";;;;;;;;","THT",1222.31,2079.35,0,Top,THT
+EXTRUDER,";;;;;;;;","THT",1182.94,1331.32,0,Top,THT
+E2 THERM,";;;;;;;;","THT",276.552,643.492,0,Top,THT
+J3,";;;;;;;;","THT",1378.91,1334.05,0,Top,THT
+E3 THERM,";;;;;;;;","THT",276.552,210.425,0,Top,THT
+E2 HEATER ,";;;;;;;;","THT",276.552,1942.71,0,Top,THT
+E1 HEATER ,";;;;;;;;","THT",276.552,2375.78,0,Top,THT
+E HEATER -,";;;;;;;;","THT",1222.31,2315.57,0,Top,THT
+Pad1,";;;;;;;;","",1222.31,2197.46,0,Top,MANUAL

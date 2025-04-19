@@ -1,0 +1,25 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=CubePro P2 Header_PCB1_57830
+# Date=11:29:38
+# CreatedBy=Fritzing 1.0.0rc.2023-06-02.CD-4157-0-6b14cfe9
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J7,";;;;;;;;","THT",1313.91,256.111,90,Top,THT
+E2 FAN,";;;;;;;;","THT",489.611,178,90,Top,THT
+P2 HEADER,";;;;;;;;","THT",1664.42,1319.73,90,Top,THT
+J8,";;;;;;;;","THT",2022.57,256.111,90,Top,THT
+J6,";;;;;;;;","THT",880.833,256.111,90,Top,THT
+MODEL FANS,";;;;;;;;","THT",1862.9,178.022,90,Top,THT
+TIP LIGHTS,";;;;;;;;","THT",1277.02,178,90,Top,THT
+J5,";;;;;;;;","THT",447.767,256.111,90,Top,THT
+E1 FAN,";;;;;;;;","THT",883.311,178,90,Top,THT
